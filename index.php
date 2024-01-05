@@ -4,8 +4,8 @@
 require "src/classes/Tarefa.php";
 require "src/classes/ArquivoTarefa.php";
 
-// $tarefa = new Tarefa(0, "Teste", "Teste da classe tarefa", "22/10/2020");
-// $tarefa2 = new Tarefa(1, "Teste 2", "Teste da classe tarefa 2", "23/10/2020");
+// $tarefa = new Tarefa(0, "Teste", "Teste da classe tarefa", "22/10/2024");
+// $tarefa2 = new Tarefa(1, "Teste 2", "Teste da classe tarefa 2", "23/10/2024");
 
 // $listaTarefas = [];
 // $listaTarefas[] = $tarefa;
